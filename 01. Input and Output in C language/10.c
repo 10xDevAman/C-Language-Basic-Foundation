@@ -11,5 +11,5 @@ int main()
     printf("Enter the radius of the circle: ");
     scanf("%d", &radius);
     printf("Area of circle is %.2f having the radius %d.", PI*radius*radius, radius);
-    
+    return 0;
 }
